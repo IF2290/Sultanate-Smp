@@ -1,13 +1,13 @@
 .Sultanate-SMP{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(58, 58, 58);
+    background-color: rgb(107, 174, 250);
     border-radius: 20px
 }
 body{
-    background-color: rgb(36, 36, 36);
+    background-color: rgb(235, 231, 223)
 }
 .abt{
     display: flex;
@@ -18,9 +18,11 @@ body{
     margin-right: 20px;
 }
 .link{
-    color: lightblue;
+    color: black;
+    display: flex;
 }
 .about-para{
     font-size: 30px;
-    color: aliceblue;
+    color: black;
+    display: flex;
 }
